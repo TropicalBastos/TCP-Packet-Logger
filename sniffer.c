@@ -7,7 +7,7 @@
 #include<arpa/inet.h>
 #include <errno.h>
 
-#define MAX_BUFFER 65585
+#define MAX_BUFFER 65535
 #define IP_SIZE 16
 #define IPv4 AF_INET
 
